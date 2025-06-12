@@ -1,6 +1,6 @@
 # smart-app
-Conclusion Summary
-Data Quality & Standardization:
+## Conclusion Summary
+# Data Quality & Standardization:
 The dataset was successfully cleaned and standardized. Date formats, age groups, and gender fields were normalized, enabling reliable analysis across variables.
 
 # Expenditure Analysis:
