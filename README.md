@@ -17,7 +17,7 @@ The most expensive diagnoses were linked to inpatient procedures and long-term c
 
 * Certain demographics (females 25–45 and males 50+) used services more frequently.
 
-A small set of diagnosis codes drove the majority of visits, especially respiratory and infectious diseases.
+* A small set of diagnosis codes drove the majority of visits, especially respiratory and infectious diseases.
 
 # Diagnosis Analysis:
 
@@ -54,6 +54,6 @@ Outlier providers were flagged for abnormally high average service costs, requir
 
 * Chronic Disease Management: Strengthen prevention and continuity of care for NCDs.
 
-Forecast Integration: Use the predictive dashboard in budgeting and resource allocation decisions.
+* Forecast Integration: Use the predictive dashboard in budgeting and resource allocation decisions.
 
 
