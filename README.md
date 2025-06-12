@@ -19,7 +19,7 @@ Certain demographics (females 25–45 and males 50+) used services more frequent
 
 A small set of diagnosis codes drove the majority of visits, especially respiratory and infectious diseases.
 
-Diagnosis Analysis:
+# Diagnosis Analysis:
 
 The most common diagnoses included malaria, URIs, and hypertension.
 
@@ -39,10 +39,21 @@ A small number of providers delivered the bulk of services.
 
 Outlier providers were flagged for abnormally high average service costs, requiring further audit or policy intervention.
 
-Predictive Analytics:
+# Predictive Analytics:
 
 SARIMA and Prophet models performed best, forecasting a gradual rise in costs and utilization over the next 12 months.
 
 The MAPE < 10% in Prophet suggests high forecast reliability for planning.
 
 Seasonal spikes in service demand were clearly captured, especially in early and late-year months.
+
+# Strategic Insights & Recommendations
+Cost Optimization: Target high-cost services and outlier providers for cost-containment measures.
+
+Equity: Invest in counties with low service utilization but high disease burden to reduce disparities.
+
+Chronic Disease Management: Strengthen prevention and continuity of care for NCDs.
+
+Forecast Integration: Use the predictive dashboard in budgeting and resource allocation decisions.
+
+
